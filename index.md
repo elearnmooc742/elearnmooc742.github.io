@@ -8,4 +8,4 @@ Ein schwarzes Pferd
 * frech
 
 ## Zitat
-Ich mach mir die Welt, wie sie mir gefaellt.
+Zitat
