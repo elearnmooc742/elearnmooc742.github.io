@@ -6,3 +6,6 @@ Ein schwarzes Pferd
 * mutig
 * stark
 * frech
+
+## Zitat
+Ich mach mir die Welt, wie sie mir gefaellt.
