@@ -7,5 +7,5 @@ Ein schwarzes Pferd
 * stark
 * frech
 
-## Zitat
-Zitat
+Quote
+> Ein schwarzes Pferd
