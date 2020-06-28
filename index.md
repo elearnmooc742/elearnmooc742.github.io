@@ -6,3 +6,6 @@ Ein schwarzes Pferd
 * mutig
 * stark
 * frech
+
+Quote
+> Ein schwarzes Pferd
