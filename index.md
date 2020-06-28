@@ -9,3 +9,5 @@ Ein schwarzes Pferd
 
 Quote
 > Ein schwarzes Pferd
+
+<img src="file:///C:/test/Snowy1.JPG"/>
