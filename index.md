@@ -8,6 +8,6 @@ Ein schwarzes Pferd
 * frech
 
 Quote
-> Ein schwarzes Pferd
+> Ein schwarzes Pferde
 
 <img src="file:///C:/test/Snowy1.JPG"/>
